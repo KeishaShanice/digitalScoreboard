@@ -1,7 +1,7 @@
 <h1> Digital Scoreboard </h1>
 
 <p>Allows user to add 1, 2, or 3 points to either a home or guest team.</p>
-<p>Link To Project: https://keishashanice.github.io/wordCounter/</p>
+<p>Link To Project: https://keishashanice.github.io/digitalScoreboard/</p>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/VzMj7N0vQuKQ1Vy8vI/giphy.gif" />  
