@@ -11,4 +11,4 @@
 <p>Technologies used include HTML, CSS, JavaScript</p>
 
 <h3>In Action:</h3>
-<p>Use buttons "plus" buttons to add to score. The add button will add to the total count for whichever team you are under. The clear button will clear the scores for both home and guest team.  </p>
+<p>Use "plus" buttons to add to score. The add button will add to the total count for whichever team you are under. The clear button will clear the scores for both home and guest team.  </p>
